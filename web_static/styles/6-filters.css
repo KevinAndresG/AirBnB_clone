@@ -85,7 +85,7 @@ ul.popover li h2 {
 	list-style-type: none;
 }
 
-.amenities ul.popover div.listamn{
+.amenities ul.popover li.listamn{
 	width: 100%;
 	padding-left: 50px;
 	margin-top: 30px;
