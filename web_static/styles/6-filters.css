@@ -73,6 +73,7 @@ ul.popover {
 	padding-right: 60px;
 	padding-bottom: 58px;
 	list-style-type: none;
+	position: relative;
 }
 ul.popover li h2 {
 	margin-left: 30px;
