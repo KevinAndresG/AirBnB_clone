@@ -1,47 +1,27 @@
 section.places h1{
 	font-size: 30px;
 	text-align: left;
-	padding-top: 18px;
+	padding-top: 15px;
 	padding-left: 17.5px;
 	margin-bottom: 0;
 }
 
-section.places article {
+section.places {
 	text-align: center;
-	float: left;
 }
-section.places article h2 {
+
+section.places article {
 	display: inline-block;
-	font-size: 30px;
 	width: 390px;
-	border: #FF5A5F 1px solid;
-	border-radius: 4px;
 	padding: 20px;
 	margin: 20px;
-}
-section.places article h2.left {
-	margin-left: 20px;
-	margin-top: 23px;
-	margin-right: 17px;
-	margin-left: 22px;
-	padding-bottom: 41px;
-	padding-right: 20px;
-	padding-top: 22px;
+	border: #FF5A5F 1px solid;
+	border-radius: 4px;
 }
 
-section.places article h2.right {
-	margin-left: 19px;
-	margin-top: 23px;
-	padding-bottom: 41px;
-	padding-left: 24px;
-	margin-left: 19px;
-	padding-right: 16px;
-	padding-top: 22px;
-}
-
-section.places article h2.down{
-	margin-left: 20px;
-	padding-bottom: 41px;
-	margin-top: 20px;
-	padding-top: 22px;
+section.places article h2 {
+	font-size: 30px;
+	text-align: center;
+	margin-top: 0;
+	margin-bottom: 20px;
 }
